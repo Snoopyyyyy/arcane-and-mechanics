@@ -3,9 +3,58 @@
 
 {
 	features: {
-		# Right-click with any applicable items held in hand with the Ultimine key held to apply onto any blocks
+		# Right-click on the copycat blocks with the held material to apply onto
 		# Default: true
-		manual_application: true
+		copycat_application: true
+		manual_applications: {
+			"createframed:item_application/bound_cardboard/dye_depot/indigo": true
+			"create:item_application/brass_casing_from_log": true
+			"create:item_application/bound_cardboard_inworld": true
+			"createframed:item_application/bound_cardboard/dye_depot/slate": true
+			"create:item_application/copper_casing_from_log": true
+			"createframed:item_application/bound_cardboard/dye_depot/amber": true
+			"createframed:item_application/bound_cardboard/dye_depot/navy": true
+			"createframed:item_application/bound_cardboard/purple": true
+			"createcasing:item_application/zinc_casing": true
+			"createframed:item_application/bound_cardboard/dye_depot/forest": true
+			"createframed:item_application/bound_cardboard/cyan": true
+			"createaddition:compat/immersiveengineering/item_application/leaded_concrete": true
+			"createframed:item_application/bound_cardboard/dye_depot/rose": true
+			"createframed:item_application/bound_cardboard/blue": true
+			"createframed:item_application/bound_cardboard/orange": true
+			"createframed:item_application/bound_cardboard/dye_depot/coral": true
+			"create:item_application/copper_casing_from_wood": true
+			"createframed:item_application/bound_cardboard/dye_depot/olive": true
+			"createframed:item_application/bound_cardboard/light_gray": true
+			"create:item_application/brass_casing_from_wood": true
+			"createframed:item_application/bound_cardboard/dye_depot/maroon": true
+			"create_enchantment_industry:item_application/experience_hatch": true
+			"create:item_application/andesite_casing_from_log": true
+			"createframed:item_application/bound_cardboard/dye_depot/tan": true
+			"createframed:item_application/bound_cardboard/dye_depot/teal": true
+			"createaddition:compat/immersiveengineering/item_application/kiln_brick": true
+			"createaddition:compat/immersiveengineering/item_application/reinforced_blast_brick": true
+			"createframed:item_application/bound_cardboard/dye_depot/beige": true
+			"create:item_application/railway_casing": true
+			"createframed:item_application/bound_cardboard/magenta": true
+			"createframed:item_application/bound_cardboard/dye_depot/mint": true
+			"createframed:item_application/bound_cardboard/dye_depot/ginger": true
+			"createframed:item_application/base_from_modded_string": true
+			"createframed:item_application/bound_cardboard/white": true
+			"createframed:item_application/bound_cardboard/green": true
+			"createframed:item_application/bound_cardboard/yellow": true
+			"create:item_application/andesite_casing_from_wood": true
+			"createframed:item_application/bound_cardboard/lime": true
+			"createframed:item_application/bound_cardboard/red": true
+			"createcasing:item_application/creative_casing": true
+			"createframed:item_application/bound_cardboard/brown": true
+			"createframed:item_application/bound_cardboard/dye_depot/verdant": true
+			"createframed:item_application/bound_cardboard/black": true
+			"createframed:item_application/bound_cardboard/pink": true
+			"createframed:item_application/bound_cardboard/dye_depot/aqua": true
+			"createframed:item_application/bound_cardboard/gray": true
+			"createframed:item_application/bound_cardboard/light_blue": true
+		}
 		
 		# Right-click with an wrench with the Ultimine key held to interact blocks (e.g. rotate, breaking)
 		# Default: true
