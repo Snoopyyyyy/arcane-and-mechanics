@@ -1,4 +1,121 @@
 {
+  "astralsorcery": {
+    "lumen": true
+  },
+  "custommachinery": {
+    "machine_component_provider": true
+  },
+  "ae2": {
+    "part_icon": true,
+    "charger": true,
+    "debug": true,
+    "part_tooltip": true,
+    "grid_node_state": true,
+    "pattern_provider": true,
+    "part_mod_name": true,
+    "power_storage": true,
+    "crafting_monitor": true,
+    "part_name": true
+  },
+  "extendedcrafting": {
+    "elite_auto_table": true,
+    "ender_crafter": true,
+    "basic_auto_table": true,
+    "flux_crafter": true,
+    "advanced_table": true,
+    "auto_ender_crafter": true,
+    "ultimate_table": true,
+    "ultimate_auto_table": true,
+    "elite_table": true,
+    "basic_table": true,
+    "crafting_core": true,
+    "advanced_auto_table": true,
+    "compressor": true
+  },
+  "hammerlib": {
+    "root": true
+  },
+  "mekanism": {
+    "chemical": true,
+    "remove_builtin": true,
+    "fluid": true,
+    "energy": true,
+    "tooltip_renderer": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "cookingforblockheads": {
+    "fridge": true,
+    "oven": true,
+    "sink": true,
+    "preservation_chamber": true,
+    "milk_jar": true,
+    "toaster": true
+  },
+  "evilcraft": {
+    "box_of_eternal_closure": true,
+    "broom": true
+  },
+  "compactmachines": {
+    "show_owner": false,
+    "bound_machine": true
+  },
+  "jade_access": {
+    "held_item": true,
+    "sign": true,
+    "block": true,
+    "entity": true,
+    "entity_variant": true
+  },
+  "oritech": {
+    "machine_core_controller": true
+  },
+  "mekajadeupgrade": {
+    "upgrades": true
+  },
+  "logisticsnetworks": {
+    "logistics_node_entity": true,
+    "node_attached": true
+  },
+  "apotheosis": {
+    "adventure": true
+  },
+  "balm": {
+    "jade": true
+  },
+  "mysticalextendedtier": {
+    "infused_farmland": true
+  },
+  "xycraft": {
+    "energy_pipe_debug": true,
+    "tank_component": true,
+    "extractor_component": true
+  },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
+  "shetiphiancore": {
+    "hud.rgb16": true,
+    "hud": true,
+    "hud.redstone": true
+  },
+  "mysticalagradditions": {
+    "infused_farmland": true
+  },
+  "twilightforest": {
+    "drying_rack": true,
+    "chiseled_bookshelf_spawner": true,
+    "quest_ram_wool": true
+  },
+  "corpse": {
+    "corpse": true
+  },
+  "mysticalagriculture": {
+    "infused_farmland": true,
+    "crop": true,
+    "inferium_crop": true
+  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
@@ -77,9 +194,6 @@
     "hud.status": true,
     "hud.contents": true
   },
-  "astralsorcery": {
-    "lumen": true
-  },
   "ftbquests": {
     "barrier": true
   },
@@ -101,46 +215,6 @@
     "jade_chamber": true,
     "jade_wireless": true
   },
-  "custommachinery": {
-    "machine_component_provider": true
-  },
-  "ae2": {
-    "part_icon": true,
-    "charger": true,
-    "debug": true,
-    "part_tooltip": true,
-    "grid_node_state": true,
-    "pattern_provider": true,
-    "part_mod_name": true,
-    "power_storage": true,
-    "crafting_monitor": true,
-    "part_name": true
-  },
-  "extendedcrafting": {
-    "elite_auto_table": true,
-    "ender_crafter": true,
-    "basic_auto_table": true,
-    "flux_crafter": true,
-    "advanced_table": true,
-    "auto_ender_crafter": true,
-    "ultimate_table": true,
-    "ultimate_auto_table": true,
-    "elite_table": true,
-    "basic_table": true,
-    "crafting_core": true,
-    "advanced_auto_table": true,
-    "compressor": true
-  },
-  "hammerlib": {
-    "root": true
-  },
-  "mekanism": {
-    "chemical": true,
-    "remove_builtin": true,
-    "fluid": true,
-    "energy": true,
-    "tooltip_renderer": true
-  },
   "easy_villagers": {
     "villager": true,
     "converter": true,
@@ -155,26 +229,11 @@
     "mortar": true,
     "cauldron": true
   },
-  "waystones": {
-    "waystone": true
-  },
   "camera": {
     "image_frame": true
   },
   "neovitae": {
     "block_info": true
-  },
-  "cookingforblockheads": {
-    "fridge": true,
-    "oven": true,
-    "sink": true,
-    "preservation_chamber": true,
-    "milk_jar": true,
-    "toaster": true
-  },
-  "evilcraft": {
-    "box_of_eternal_closure": true,
-    "broom": true
   },
   "enderchests": {
     "hud": true
@@ -182,30 +241,6 @@
   "framedblocks": {
     "framed_item_frame": true,
     "framed_block_generic": true
-  },
-  "compactmachines": {
-    "show_owner": false,
-    "bound_machine": true
-  },
-  "jade_access": {
-    "held_item": true,
-    "sign": true,
-    "block": true,
-    "entity": true,
-    "entity_variant": true
-  },
-  "oritech": {
-    "machine_core_controller": true
-  },
-  "mekajadeupgrade": {
-    "upgrades": true
-  },
-  "logisticsnetworks": {
-    "logistics_node_entity": true,
-    "node_attached": true
-  },
-  "apotheosis": {
-    "adventure": true
   },
   "ars_zero": {
     "entity_mana": true
@@ -217,23 +252,9 @@
   "apothic_enchanting": {
     "ench": true
   },
-  "balm": {
-    "jade": true
-  },
   "functionalstorage": {
     "armory": true,
     "drawer": true
-  },
-  "mysticalextendedtier": {
-    "infused_farmland": true
-  },
-  "xycraft": {
-    "energy_pipe_debug": true,
-    "tank_component": true,
-    "extractor_component": true
-  },
-  "ars_nouveau": {
-    "mob_jar": true
   },
   "jadeaddons": {
     "equipment_requirement": ""
@@ -241,30 +262,9 @@
   "jadeaddons.lootr": {
     "info": true
   },
-  "shetiphiancore": {
-    "hud.rgb16": true,
-    "hud": true,
-    "hud.redstone": true
-  },
   "toms_storage": {
     "inventory_hopper": true,
     "inventory_config": true,
     "inventory_connector": true
-  },
-  "mysticalagradditions": {
-    "infused_farmland": true
-  },
-  "twilightforest": {
-    "drying_rack": true,
-    "chiseled_bookshelf_spawner": true,
-    "quest_ram_wool": true
-  },
-  "corpse": {
-    "corpse": true
-  },
-  "mysticalagriculture": {
-    "infused_farmland": true,
-    "crop": true,
-    "inferium_crop": true
   }
 }
