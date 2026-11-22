@@ -82,3 +82,5 @@
 /user-prefs.json
 /usercache.json
 /usernamecache.json
+config/worldstripper/config.json
+config/worldstripper/strippables.json

@@ -1,0 +1,41 @@
+{
+  "mod_priorities": [
+    "minecraft",
+    "kubejs",
+    "create",
+    "immersiveengineering",
+    "mekanism",
+    "oritech",
+    "occultism",
+    "xycraft_world",
+    "rftoolsbase"
+  ],
+  "priority_overrides": {
+    "uranium": "oritech"
+  },
+  "stone_variants": [
+    "stone",
+    "andesite",
+    "deepslate",
+    "diorite",
+    "granite",
+    "netherrack",
+    "end_stone"
+  ],
+  "tags": [
+    "c:ores/{material}"
+  ],
+  "ignored_tags": [],
+  "ignored_items": [
+    "undergarden:.*_ore",
+    "deeperdarker:.*_ore",
+    "rftoolsbase:dimensionalshard.*"
+  ],
+  "ignored_recipe_types": [
+    "cucumber:shaped_tag"
+  ],
+  "ignored_recipe_ids": [],
+  "recipe_viewer_hiding": true,
+  "loot_unification": true,
+  "ignored_loot_tables": []
+}
