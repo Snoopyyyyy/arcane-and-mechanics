@@ -1,0 +1,24 @@
+#Damage dealt by hot items carried in a player's inventory.
+#Only the hottest item of the inventory is taken into account.
+[hot_stuff]
+	#Ticks between two burns (20 = 1 second).
+	# Default: 20
+	# Range: 1 ~ 1200
+	damageInterval = 20
+	#Temperature below which a hot item deals no damage.
+	# Default: 100
+	# Range: > 0
+	minTemperature = 100
+	#Degrees per point of damage (2 points = 1 heart).
+	# Default: 250.0
+	# Range: 1.0 ~ 1.7976931348623157E308
+	degreesPerDamage = 250.0
+	#Temperature from which the player is set on fire.
+	# Default: 1000
+	# Range: > 0
+	igniteTemperature = 1000
+	#Fire duration, in seconds.
+	#0 disables setting the player on fire.
+	# Default: 3.0
+	# Range: 0.0 ~ 60.0
+	igniteSeconds = 3.0
